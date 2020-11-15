@@ -1,5 +1,5 @@
 .header {
-   height: 60px;
+   height: 90px;
    display: flex;
    align-items: center;
    background-color: #131921;
@@ -33,15 +33,15 @@
 .header__searchIcon {
     padding: 5px;
     height: 22px !important;
-    background-color: #cd9042;
+    background-color: #008000;
 }
 
 .header__optionOne {
-     font-size: 10px;
+     font-size: 13px;
 }
 
 .header__optionTwo {
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 800;
 }
 
