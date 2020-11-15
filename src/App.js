@@ -1,9 +1,10 @@
 
 import './App.css';
 import Header from './Header'
-import './Header.css'
-import Footer from './Footer';
-import './Footer.css';
+
+import Footer from './Footer'
+import Home from './Home.js';
+
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
       <Header />
       <Footer />
+      <Home />
       
     </div>
   );
